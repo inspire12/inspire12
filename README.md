@@ -1,4 +1,4 @@
-<div align=center>
+<div align=right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finspire12)](https://hits.seeyoufarm.com)
 
@@ -10,7 +10,8 @@
 ### Interest
 - 
 
-<div align=center>
+<div align=right>
+Contact 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeonghak-seo-138bb5b5/)](https://www.linkedin.com/in/yeonghak-seo-138bb5b5/) 
 
