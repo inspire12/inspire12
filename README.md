@@ -5,14 +5,15 @@
 </div>
 
 ### Server Application Developer
+- Hello! I am Seo Young-hak who wants to make the world better and enjoyable by programming.
 - I learned computer science by fascinating programming that makes the world comfortable and fun to change
+
 
 ### Interest
 - Micro Service Architecture / Spring Cloud
 - AI Engineering
 - Algorithm with TDD
 - Platform System
-
 
 <div align=right>
   
