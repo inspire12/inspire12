@@ -5,10 +5,12 @@
 </div>
 
 ### Server Application Developer
-- 
+- I learned computer science by fascinating programming that makes the world comfortable and fun to change.
 
 ### Interest
-- 
+- MVC / Spring Cloud
+- Algorithm 
+- Test System 
 
 <div align=right>
 Contact 
