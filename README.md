@@ -10,7 +10,8 @@
 
 
 ### Interest
-- Micro Service Architecture / Spring Cloud
+- Spring Boot
+- Spring Cloud (MSA System)
 - AI Engineering
 - Algorithm with TDD
 - Platform System
