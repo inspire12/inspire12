@@ -11,7 +11,7 @@
 
 ### Interest
 - Spring Boot
-- Spring Cloud (MSA System)
+- Spring Cloud (MSA, Event based)
 - AI Engineering
 - Algorithm with TDD
 - Platform System
