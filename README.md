@@ -1,7 +1,7 @@
 
-### Server Application Developer
-- Hello! I am Seo Young-hak who want to make the world better and enjoyable by programming.
-- I learned computer science by fascinating programming that makes the world comfortable and fun to change
+### Backend Software Engineer & Software Instructor
+- Hello! I am Seo Yeong-hak who want to make the world better and enjoyable by programming.
+- I'm learning computer science by fascinating programming that makes the world comfortable and fun to change
 
 
 ### Interest
