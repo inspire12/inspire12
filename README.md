@@ -2,7 +2,7 @@
 ### Backend Software Engineer & Software Instructor
 - Hello! I am Seo Yeong-hak who want to make the world better and enjoyable by programming.
 - I'm learning computer science by fascinating programming that makes the world comfortable and fun to change
-
+[RESUME.pdf](https://github.com/user-attachments/files/21070604/_._.pdf)
 
 ### Interest
 - Spring Boot
@@ -10,6 +10,7 @@
 - Spring Cloud (MSA, Event based)
 - AI Engineering
 - Algorithm
+
 - Platform System
 
 <div align=right>
